@@ -6,7 +6,8 @@ end
 
 def actor
   actor={
-    key{:name,value:"Dwayne The Rock Johnson"}
+    
+  }
   }
 
 end
