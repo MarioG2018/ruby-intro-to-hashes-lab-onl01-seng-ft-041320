@@ -6,7 +6,7 @@ end
 
 def actor
   actor={
-    :name=>{ :value}
+    :name=>{value:"Dwayne The Rock Johnson"}
   }
   }
 
