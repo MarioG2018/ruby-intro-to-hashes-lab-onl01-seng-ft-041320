@@ -37,11 +37,15 @@ def monopoly_with_third_tier
 	    :pieces=>4,
 	    :rent_in_dollars=>{
 	      :one_piece=>25,
-	      :two_piece=>50,
-	      :third_piece=>100,
-	      :fourth_piece=>
+	      :two_pieces=>50,
+	      :three_pieces=>100,
+	      :four_pieces=>200
 	    },
-	    :names=>{}
+	    :names=>{
+	      :reading_railroad=>{},
+	      :pennsylvania_railroad=>{},
+	      
+	    }
   	}
 	  }
 
