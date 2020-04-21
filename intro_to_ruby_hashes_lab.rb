@@ -17,8 +17,7 @@ def monopoly
 	  :railroads=>{
 	    :pieces=>{},
 	    :names=>{},
-	    :shortline=>{},
-	    
+	    :shortline=>{}
 	  }
 	}
 
