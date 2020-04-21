@@ -9,12 +9,11 @@ def actor
     
     name:"Dwayne The Rock Johnson"
   }
-
 end
 
-def monopoly
+#def monopoly
   
-end
+#end
 
 #def monopoly_with_second_tier
   #	monopoly = {
